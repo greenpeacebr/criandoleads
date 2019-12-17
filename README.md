@@ -1,4 +1,4 @@
-# criandoleads
+# Criando Leads
 Script de agrupamento e limpeza de dados para o processo semanal de extração de leads.
 
 
@@ -11,8 +11,17 @@ de forma que mesmo que não entenda de programação possa utilizado para agrupa
 
 # Passo-a-passo
 
+Primeiramente você deve estar com todas as listas extraidas do hubspot com os filtros semanais. Essas regras podem ser alteradas
+então é importante alinhar com o time quais leads serão repassados para a operação em questão.
+
+Certifique-se que o template utilizado para agrupar as listas e consequentemente trata-las esteja na mesma pasta.
+
+Escolha um dos meios de realizar a execução do script (serão listados abaixo), na sequencia faça o upload dos arquivos, ou indique
+o path da pasta com as listas e o template.
+
 Para utilizar o script voce pode processa-lo localmente, através do civis, ou do colaboratory. Por questões de segurança o ideal é sempre
-rodar localmente ou através do Jupyter Notebook do civis.
+rodar localmente ou através do Jupyter Notebook do civis, pois o civis é uma ferramenta integrada com os nossos sistemas.
+
 
 - Civis
 - Colab
