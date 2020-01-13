@@ -30,3 +30,4 @@ rodar localmente ou através do Jupyter Notebook do civis, pois o civis é uma f
 # Colab
 
 
+- * Loading **
